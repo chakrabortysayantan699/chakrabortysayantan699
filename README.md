@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Django,Advanced DS and Algorithm 
+- 📫 How to reach me: [Linkdin](https://in.linkedin.com/in/sayantan-chakraborty-a7626916b)
 
 <!--
 **chakrabortysayantan699/chakrabortysayantan699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
