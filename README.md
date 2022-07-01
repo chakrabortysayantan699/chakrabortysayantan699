@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a student <br> 
+- 🔭 I'm a CS student <br> 
+- 🌱 I’m currently learning Imageprocessing and Cryptography
 
 
 ## 🌐 Socials:
