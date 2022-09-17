@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - 🔭 I'm a CS student <br> 
-- 🌱 I’m currently learning Imageprocessing and Cryptography
+- 🌱 I’m currently learning DJANGO ,ML
 
 
 ## 🌐 Socials:
